@@ -3,7 +3,7 @@ public static void main(String[] args){
     int number=99999991;
     int total=0;
     do{
-        total=calculate(number);
+        total=getSumOfDigits(number);
         number=total;
         System.out.println("Inside do "+total);
     }while(total>9);
