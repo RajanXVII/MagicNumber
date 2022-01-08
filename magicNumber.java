@@ -1,4 +1,4 @@
-class palindorme{
+class magicNumber{
 public static void main(String[] args){
     int number=99999991;
     int total=0;
