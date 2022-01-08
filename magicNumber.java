@@ -12,7 +12,7 @@ public static void main(String[] args){
     }
     
 }
-private static int calculate(int number){
+private static int getSumOfDigits(int number){
         
     int num2=0;
     int total=0;
